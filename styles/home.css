@@ -1,0 +1,22 @@
+html{
+	height: 100%;
+    background-image: url("background.jpeg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.comingsoon{
+	padding-top: 20px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.comingsoon img{
+	width: 100%;
+}
+
+.headertext{
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
