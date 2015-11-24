@@ -6,7 +6,7 @@ html{
 }
 
 .comingsoon{
-	padding-top: 20px;
+	padding-top: 40px;
 	width: 80%;
 	margin: 0 auto;
 }
@@ -21,4 +21,16 @@ html{
 	text-align: center;
 	font-size: 25px;
 	color: #575756;
+}
+.iconcontainer{
+	width: 50%;
+	margin: 0 auto;
+}
+.icon{
+	width: 33.3%;
+	float: left;
+}
+
+.icon img{
+	width: 100%;
 }
