@@ -1,36 +1,22 @@
-html{
-	height: 100%;
-    background-image: url("background.jpeg");
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-
-.comingsoon{
-	padding-top: 40px;
-	width: 80%;
-	margin: 0 auto;
-}
-
-.comingsoon img{
+.fullwrapper{
 	width: 100%;
 }
 
-.headertext{
-	width: 80%;
-	margin: 0 auto;
-	text-align: center;
-	font-size: 25px;
-	color: #575756;
-}
-.iconcontainer{
-	width: 50%;
-	margin: 0 auto;
-}
-.icon{
-	width: 33.3%;
-	float: left;
+.header{
+	width:100%;
 }
 
-.icon img{
-	width: 100%;
+.container{
+    width: 75%;
+    margin: 0 auto;
+}
+
+#skills{
+	background-color: #ebebeb;
+	margin-top: -21px;
+	padding: 20px 0;
+}
+
+.btn_behance{
+	background-color: #18bc9c;
 }
