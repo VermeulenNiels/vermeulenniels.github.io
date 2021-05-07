@@ -1,2 +1,2 @@
 # Personal webpage (WIP)
-[Link to webpage](http://www.vermeulenniels.github.io)
+[Link to webpage](https://vermeulenniels.github.io/)
